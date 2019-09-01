@@ -5,12 +5,23 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: O nas
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Ogród "Azalia" powstał w roku 1975. Jego główne cele to: służyć
+    społeczeństwu a zwłaszcza rodzinom z dziećmi, emerytom, rencistom i osobom
+    niepełnosprawnym - czyli zaspokojenie wypoczynkowych i rekreacyjnych potrzeb
+    społeczeństwa.
+
+
+    Ogród brał udział w konkursach o najpiękniejszą działkę i wielokrotnie był
+    nagradzany przez Polski Związek Działkowców jako wzorowy. W roku 2011
+    zajęliśmy pierwsze miejsce w województwie łódzkim.
+
+
+    Zarząd R.O.D. "Azalia" systematycznie dba o wygląd i estetykę całego ogrodu.
+    Działająca tu Kobieca Komisja co roku organizuje Dzień Dziecka dla naszych
+    dzieci i wnuków. Zabawy i konkursy kończą się każdorazowo małym
+    poczęstunkiem.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +79,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
